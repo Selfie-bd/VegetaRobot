@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 <h1 align="center"><b>Prince Vegeta</b></h1>
 
 <h4 align="center">A Advanced Powerful, Smart And Intelligent Group Management Bot With New And Powerful Features <br> ... Written with Pyrogram and Telethon...</h4>
